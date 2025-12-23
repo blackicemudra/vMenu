@@ -37,67 +37,251 @@ namespace vMenuClient.data
                 // Chameleon Colour Labels //
                 else if (label == "G9_PAINT01")
                 {
-                    AddTextEntry("G9_PAINT01", "Monochrome");
+                    AddTextEntry("G9_PAINT01", "Anodized Red");
                 }
                 else if (label == "G9_PAINT02")
                 {
-                    AddTextEntry("G9_PAINT02", "Night & Day");
+                    AddTextEntry("G9_PAINT02", "Anodized Wine");
                 }
                 else if (label == "G9_PAINT03")
                 {
-                    AddTextEntry("G9_PAINT03", "The Verlierer");
+                    AddTextEntry("G9_PAINT03", "Anodized Purple");
                 }
                 else if (label == "G9_PAINT04")
                 {
-                    AddTextEntry("G9_PAINT04", "Sprunk Extreme");
+                    AddTextEntry("G9_PAINT04", "Anodized Blue");
                 }
                 else if (label == "G9_PAINT05")
                 {
-                    AddTextEntry("G9_PAINT05", "Vice City");
+                    AddTextEntry("G9_PAINT05", "Anodized Green");
                 }
                 else if (label == "G9_PAINT06")
                 {
-                    AddTextEntry("G9_PAINT06", "Synthwave Nights");
+                    AddTextEntry("G9_PAINT06", "Anodized Lime");
                 }
                 else if (label == "G9_PAINT07")
                 {
-                    AddTextEntry("G9_PAINT07", "Four Seasons");
+                    AddTextEntry("G9_PAINT07", "Anodized Copper");
                 }
                 else if (label == "G9_PAINT08")
                 {
-                    AddTextEntry("G9_PAINT08", "Maisonette 9 Throwback");
+                    AddTextEntry("G9_PAINT08", "Anodized Bronze");
                 }
                 else if (label == "G9_PAINT09")
                 {
-                    AddTextEntry("G9_PAINT09", "Bubblegum");
+                    AddTextEntry("G9_PAINT09", "Anodized Champagne");
                 }
                 else if (label == "G9_PAINT10")
                 {
-                    AddTextEntry("G9_PAINT10", "Full Rainbow");
+                    AddTextEntry("G9_PAINT10", "Anodized Gold");
                 }
                 else if (label == "G9_PAINT11")
                 {
-                    AddTextEntry("G9_PAINT11", "Sunset");
+                    AddTextEntry("G9_PAINT11", "Green Blue Flip");
                 }
                 else if (label == "G9_PAINT12")
                 {
-                    AddTextEntry("G9_PAINT12", "The Seven");
+                    AddTextEntry("G9_PAINT12", "Green Red Flip");
                 }
                 else if (label == "G9_PAINT13")
                 {
-                    AddTextEntry("G9_PAINT13", "Kamen Rider");
+                    AddTextEntry("G9_PAINT13", "Green Brown Flip");
                 }
                 else if (label == "G9_PAINT14")
                 {
-                    AddTextEntry("G9_PAINT14", "Chromatic Aberration");
+                    AddTextEntry("G9_PAINT14", "Green Turqoise Flip");
                 }
                 else if (label == "G9_PAINT15")
                 {
-                    AddTextEntry("G9_PAINT15", "It's Christmas!");
+                    AddTextEntry("G9_PAINT15", "Green Purple Flip");
                 }
                 else if (label == "G9_PAINT16")
                 {
-                    AddTextEntry("G9_PAINT16", "Temperature");
+                    AddTextEntry("G9_PAINT16", "Teal Purple Flip");
+                }
+                else if (label == "G9_PAINT17")
+                {
+                    AddTextEntry("G9_PAINT17", "Turqoise Red Flip");
+                }
+                else if (label == "G9_PAINT18")
+                {
+                    AddTextEntry("G9_PAINT18", "Turqoise Purple Flip");
+                }
+                else if (label == "G9_PAINT19")
+                {
+                    AddTextEntry("G9_PAINT19", "Cyan Purple Flip");
+                }
+                else if (label == "G9_PAINT20")
+                {
+                    AddTextEntry("G9_PAINT20", "Blue Pink Flip");
+                }
+                else if (label == "G9_PAINT21")
+                {
+                    AddTextEntry("G9_PAINT21", "Blue Green Flip");
+                }
+                else if (label == "G9_PAINT22")
+                {
+                    AddTextEntry("G9_PAINT22", "Purple Red Flip");
+                }
+                else if (label == "G9_PAINT23")
+                {
+                    AddTextEntry("G9_PAINT23", "Purple Green Flip");
+                }
+                else if (label == "G9_PAINT24")
+                {
+                    AddTextEntry("G9_PAINT24", "Magenta Green Flip");
+                }
+                else if (label == "G9_PAINT25")
+                {
+                    AddTextEntry("G9_PAINT25", "Magenta Yellow Flip");
+                }
+                else if (label == "G9_PAINT26")
+                {
+                    AddTextEntry("G9_PAINT26", "Burgundy Green Flip");
+                }
+                else if (label == "G9_PAINT27")
+                {
+                    AddTextEntry("G9_PAINT27", "Magenta Cyan Flip");
+                }
+                else if (label == "G9_PAINT28")
+                {
+                    AddTextEntry("G9_PAINT28", "Copper Purple Flip");
+                }
+                else if (label == "G9_PAINT29")
+                {
+                    AddTextEntry("G9_PAINT29", "Magenta Orange Flip");
+                }
+                else if (label == "G9_PAINT30")
+                {
+                    AddTextEntry("G9_PAINT30", "Red Orange Flip");
+                }
+                else if (label == "G9_PAINT31")
+                {
+                    AddTextEntry("G9_PAINT31", "Orange Purple Flip");
+                }
+                else if (label == "G9_PAINT32")
+                {
+                    AddTextEntry("G9_PAINT32", "Orange Blue Flip");
+                }
+                else if (label == "G9_PAINT33")
+                {
+                    AddTextEntry("G9_PAINT33", "White Purple Flip");
+                }
+                else if (label == "G9_PAINT34")
+                {
+                    AddTextEntry("G9_PAINT34", "Red Rainbow Flip");
+                }
+                else if (label == "G9_PAINT35")
+                {
+                    AddTextEntry("G9_PAINT35", "Blue Rainbow Flip");
+                }
+                else if (label == "G9_PAINT36")
+                {
+                    AddTextEntry("G9_PAINT36", "Dark Green Pearl");
+                }
+                else if (label == "G9_PAINT37")
+                {
+                    AddTextEntry("G9_PAINT37", "Dark Teal Pearl");
+                }
+                else if (label == "G9_PAINT38")
+                {
+                    AddTextEntry("G9_PAINT38", "Dark Blue Pearl");
+                }
+                else if (label == "G9_PAINT39")
+                {
+                    AddTextEntry("G9_PAINT39", "Dark Purple Pearl");
+                }
+                else if (label == "G9_PAINT40")
+                {
+                    AddTextEntry("G9_PAINT40", "Oil Slick Pearl");
+                }
+                else if (label == "G9_PAINT41")
+                {
+                    AddTextEntry("G9_PAINT41", "Light Green Pearl");
+                }
+                else if (label == "G9_PAINT42")
+                {
+                    AddTextEntry("G9_PAINT42", "Light Blue Pearl");
+                }
+                else if (label == "G9_PAINT43")
+                {
+                    AddTextEntry("G9_PAINT43", "Light Purple Pearl");
+                }
+                else if (label == "G9_PAINT44")
+                {
+                    AddTextEntry("G9_PAINT44", "Light Pink Pearl");
+                }
+                else if (label == "G9_PAINT45")
+                {
+                    AddTextEntry("G9_PAINT45", "Off White Pearl");
+                }
+                else if (label == "G9_PAINT46")
+                {
+                    AddTextEntry("G9_PAINT46", "Pink Pearl");
+                }
+                else if (label == "G9_PAINT47")
+                {
+                    AddTextEntry("G9_PAINT47", "Yellow Pearl");
+                }
+                else if (label == "G9_PAINT48")
+                {
+                    AddTextEntry("G9_PAINT48", "Green Pearl");
+                }
+                else if (label == "G9_PAINT49")
+                {
+                    AddTextEntry("G9_PAINT49", "Blue Pearl");
+                }
+                else if (label == "G9_PAINT50")
+                {
+                    AddTextEntry("G9_PAINT50", "Cream Pearl");
+                }
+                else if (label == "G9_PAINT51")
+                {
+                    AddTextEntry("G9_PAINT51", "White Prismatic");
+                }
+                else if (label == "G9_PAINT52")
+                {
+                    AddTextEntry("G9_PAINT52", "Graphite Prismatic");
+                }
+                else if (label == "G9_PAINT53")
+                {
+                    AddTextEntry("G9_PAINT53", "Dark Blue Prismatic");
+                }
+                else if (label == "G9_PAINT54")
+                {
+                    AddTextEntry("G9_PAINT54", "Dark Purple Prismatic");
+                }
+                else if (label == "G9_PAINT55")
+                {
+                    AddTextEntry("G9_PAINT55", "Hot Pink Prismatic");
+                }
+                else if (label == "G9_PAINT56")
+                {
+                    AddTextEntry("G9_PAINT56", "Dark Red Prismatic");
+                }
+                else if (label == "G9_PAINT57")
+                {
+                    AddTextEntry("G9_PAINT57", "Dark GREEEN Prismatic");
+                }
+                else if (label == "G9_PAINT58")
+                {
+                    AddTextEntry("G9_PAINT58", "Black Prismatic");
+                }
+                else if (label == "G9_PAINT59")
+                {
+                    AddTextEntry("G9_PAINT59", "Black Oil Spill");
+                }
+                else if (label == "G9_PAINT60")
+                {
+                    AddTextEntry("G9_PAINT60", "Black Rainbow");
+                }
+                else if (label == "G9_PAINT61")
+                {
+                    AddTextEntry("G9_PAINT61", "Black Holographic");
+                }
+                else if (label == "G9_PAINT62")
+                {
+                    AddTextEntry("G9_PAINT62", "White Holographic");
                 }
 
                 this.label = label;
@@ -325,23 +509,69 @@ namespace vMenuClient.data
         // Chameleon Colour List //
         public static readonly List<VehicleColor> ChameleonColors = new()
         {
-            new VehicleColor(223, "G9_PAINT01"),
-            new VehicleColor(224, "G9_PAINT02"),
-            new VehicleColor(225, "G9_PAINT03"),
-            new VehicleColor(226, "G9_PAINT04"),
-            new VehicleColor(227, "G9_PAINT05"),
-            new VehicleColor(228, "G9_PAINT06"),
-            new VehicleColor(229, "G9_PAINT07"),
-            new VehicleColor(230, "G9_PAINT08"),
-            new VehicleColor(231, "G9_PAINT09"),
-            new VehicleColor(232, "G9_PAINT10"),
-            new VehicleColor(233, "G9_PAINT11"),
-            new VehicleColor(234, "G9_PAINT12"),
-            new VehicleColor(235, "G9_PAINT13"),
-            new VehicleColor(236, "G9_PAINT14"),
-            new VehicleColor(237, "G9_PAINT15"),
-            new VehicleColor(238, "G9_PAINT16"),
-        };
+    new VehicleColor(161, "G9_PAINT01"),
+    new VehicleColor(162, "G9_PAINT02"),
+    new VehicleColor(163, "G9_PAINT03"),
+    new VehicleColor(164, "G9_PAINT04"),
+    new VehicleColor(165, "G9_PAINT05"),
+    new VehicleColor(166, "G9_PAINT06"),
+    new VehicleColor(167, "G9_PAINT07"),
+    new VehicleColor(168, "G9_PAINT08"),
+    new VehicleColor(169, "G9_PAINT09"),
+    new VehicleColor(170, "G9_PAINT10"),
+    new VehicleColor(171, "G9_PAINT11"),
+    new VehicleColor(172, "G9_PAINT12"),
+    new VehicleColor(173, "G9_PAINT13"),
+    new VehicleColor(174, "G9_PAINT14"),
+    new VehicleColor(175, "G9_PAINT15"),
+    new VehicleColor(176, "G9_PAINT16"),
+    new VehicleColor(177, "G9_PAINT17"),
+    new VehicleColor(178, "G9_PAINT18"),
+    new VehicleColor(179, "G9_PAINT19"),
+    new VehicleColor(180, "G9_PAINT20"),
+    new VehicleColor(181, "G9_PAINT21"),
+    new VehicleColor(182, "G9_PAINT22"),
+    new VehicleColor(183, "G9_PAINT23"),
+    new VehicleColor(184, "G9_PAINT24"),
+    new VehicleColor(185, "G9_PAINT25"),
+    new VehicleColor(186, "G9_PAINT26"),
+    new VehicleColor(187, "G9_PAINT27"),
+    new VehicleColor(188, "G9_PAINT28"),
+    new VehicleColor(189, "G9_PAINT29"),
+    new VehicleColor(190, "G9_PAINT30"),
+    new VehicleColor(191, "G9_PAINT31"),
+    new VehicleColor(192, "G9_PAINT32"),
+    new VehicleColor(193, "G9_PAINT33"),
+    new VehicleColor(194, "G9_PAINT34"),
+    new VehicleColor(195, "G9_PAINT35"),
+    new VehicleColor(196, "G9_PAINT36"),
+    new VehicleColor(197, "G9_PAINT37"),
+    new VehicleColor(198, "G9_PAINT38"),
+    new VehicleColor(199, "G9_PAINT39"),
+    new VehicleColor(200, "G9_PAINT40"),
+    new VehicleColor(201, "G9_PAINT41"),
+    new VehicleColor(202, "G9_PAINT42"),
+    new VehicleColor(203, "G9_PAINT43"),
+    new VehicleColor(204, "G9_PAINT44"),
+    new VehicleColor(205, "G9_PAINT45"),
+    new VehicleColor(206, "G9_PAINT46"),
+    new VehicleColor(207, "G9_PAINT47"),
+    new VehicleColor(208, "G9_PAINT48"),
+    new VehicleColor(209, "G9_PAINT49"),
+    new VehicleColor(210, "G9_PAINT50"),
+    new VehicleColor(211, "G9_PAINT51"),
+    new VehicleColor(212, "G9_PAINT52"),
+    new VehicleColor(213, "G9_PAINT53"),
+    new VehicleColor(214, "G9_PAINT54"),
+    new VehicleColor(215, "G9_PAINT55"),
+    new VehicleColor(216, "G9_PAINT56"),
+    new VehicleColor(217, "G9_PAINT57"),
+    new VehicleColor(218, "G9_PAINT58"),
+    new VehicleColor(219, "G9_PAINT59"),
+    new VehicleColor(220, "G9_PAINT60"),
+    new VehicleColor(221, "G9_PAINT61"),
+    new VehicleColor(222, "G9_PAINT62"),
+};
 
         public static class Vehicles
         {
